@@ -14,6 +14,11 @@ Yelp is a crowd-sourced platform that allows users to **discover and review loca
 
 Yelp’s database provides a **holistic view of user behavior**, capturing interactions across different business types (restaurants, retail, services, etc.). This project leverages Yelp’s data to **analyze the dynamics of user engagement and sentiment** that drive **business success**, with a particular focus on **restaurants** as a case study.  
 
+## Dataset
+
+The data for this project is sourced from the Kaggle dataset:
+
+- **Dataset Link:** [Yelp's businesses, reviews, and user data](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset?resource=download&select=yelp_academic_dataset_user.json)
 ---
 
 ## **1. Introduction**  
