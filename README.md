@@ -2,7 +2,9 @@
 
 ![](https://github.com/adarshraj18/User_Engagement_and_Sentiment_Analysis_for_Businesses/blob/main/User%20Engagement%20Analysis.png)
 
-## **0. About Yelp** 
+## **About Yelp** 
+
+![](https://github.com/adarshraj18/User_Engagement_and_Sentiment_Analysis_for_Businesses/blob/main/About%20Yelp.png)
 
 
 Yelp is a crowd-sourced platform that allows users to **discover and review local businesses**. Through its web and mobile applications, users contribute:  
