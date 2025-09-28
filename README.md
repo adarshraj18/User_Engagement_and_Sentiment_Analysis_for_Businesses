@@ -22,7 +22,7 @@ The data for this project is sourced from the Kaggle dataset:
 ---
 
 ## **1. Introduction**  
-In a competitive marketplace, understanding what drives **business success** is crucial. This project leverages Yelp data to explore **how user engagement, sentiment, and trends impact business performance**, with a focus on restaurants. By combining **SQL for data modeling** and **Python for advanced analysis**, the study reveals actionable insights that businesses can use to **boost engagement, enhance customer satisfaction, and optimize strategies**.
+In a competitive marketplace, understanding what drives **business success** is crucial. This project leverages Yelp data to explore **how user engagement, sentiment, and trends impact business performance**, with a focus on restaurants. By combining **SQL for data modeling** the study reveals actionable insights that businesses can use to **boost engagement, enhance customer satisfaction, and optimize strategies**.
 
 ---
 
@@ -62,7 +62,6 @@ These were transformed into SQL tables for scalable querying and integrated with
 
 ## **5. Methodology & Tools**  
 - **SQL:** JSON ingestion, data cleaning, KPI computation, correlation analysis.  
-- **Python:** Data integration and advanced analytics.  
 - **Analytics Techniques:** Segmentation, sentiment analysis, time-series trends, and engagement scoring.
 
 ---
@@ -116,7 +115,6 @@ These were transformed into SQL tables for scalable querying and integrated with
 
 ## **8. Tools & Skills Demonstrated**  
 - **SQL:** Aggregations, Correlations, JSON to SQL integration, Time-Series Analysis.  
-- **Python:** Data integration and advanced analysis.  
 - **Analytics:** KPI Design, Segmentation, Engagement Modeling.
 
 ---
